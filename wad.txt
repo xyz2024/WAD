@@ -1,0 +1,10 @@
+1-- git init
+2-- git config
+3-- git config --global user.name "Name"
+4-- git config --global user.email "email"
+5-- git status
+6-- touch index.html
+7-- git add -A
+8-- git commit -m
+9-- git status
+10-- git hub three commets
